@@ -507,7 +507,7 @@
             <button class="mobile-toggle" id="mobileToggleBtn"><i class="fas fa-gem"></i></button>
             <div class="brand">
                 <i class="fas fa-crown"></i>
-                <span>VELORIA</span>
+                <span>RAJ</span>
             </div>
         </div>
         <nav class="main-nav">
